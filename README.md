@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msanchez50
 - 👀 I’m interested in code, game design and big data science
-- 🌱 I’m currently learning the basic fundamentals of coding.
+- 🌱 I’m currently learning the basic fundamentals of coding and data analysis
 - 💞️ I’m looking to collaborate on any open projects which could help me to develope my knoledge of coding, programming and analyzing data
 - 📫 How to reach me is via mail contactic msanchez.50@alumni.unav.es
 
